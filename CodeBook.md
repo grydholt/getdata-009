@@ -94,207 +94,207 @@ std(): Standard deviation
 ### Variables
 The variables are explained in each of the following subsections. The data set is in the wide form.
 
-#### **Subject** Variable
+#### *Subject*
 The index of the subject perfoming the measured activity.
 
-#### **Activity** Variable
+#### *Activity*
 The activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-mean()-X** Variable
+#### *Mean of tBodyAcc-mean()-X*
 The mean of the estimated mean of the tBodyAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-mean()-Y** Variable
+#### *Mean of tBodyAcc-mean()-Y*
 The mean of the estimated mean of the tBodyAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-mean()-Z** Variable
+#### *Mean of tBodyAcc-mean()-Z*
 The mean of the estimated mean of the tBodyAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-std()-X** Variable
+#### *Mean of tBodyAcc-std()-X*
 The mean of the estimated standard deviation of the tBodyAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-std()-Y** Variable
+#### *Mean of tBodyAcc-std()-Y*
 The mean of the estimated standard deviation of the tBodyAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAcc-std()-Z** Variable
+#### *Mean of tBodyAcc-std()-Z*
 The mean of the estimated standard deviation of the tBodyAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-mean()-X** Variable
+#### *Mean of tGravityAcc-mean()-X*
 The mean of the estimated mean of the tGravityAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-mean()-Y** Variable
+#### *Mean of tGravityAcc-mean()-Y*
 The mean of the estimated mean of the tGravityAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-mean()-Z** Variable
+#### *Mean of tGravityAcc-mean()-Z*
 The mean of the estimated mean of the tGravityAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-std()-X** Variable
+#### *Mean of tGravityAcc-std()-X*
 The mean of the estimated standard deviation of the tGravityAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-std()-Y** Variable
+#### *Mean of tGravityAcc-std()-Y*
 The mean of the estimated standard deviation of the tGravityAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAcc-std()-Z** Variable
+#### *Mean of tGravityAcc-std()-Z*
 The mean of the estimated standard deviation of the tGravityAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-mean()-X** Variable
+#### *Mean of tBodyAccJerk-mean()-X*
 The mean of the estimated mean of the tBodyAccJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-mean()-Y** Variable
+#### *Mean of tBodyAccJerk-mean()-Y*
 The mean of the estimated mean of the tBodyAccJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-mean()-Z** Variable
+#### *Mean of tBodyAccJerk-mean()-Z*
 The mean of the estimated mean of the tBodyAccJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-std()-X** Variable
+#### *Mean of tBodyAccJerk-std()-X*
 The mean of the estimated standard deviation of the tBodyAccJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-std()-Y** Variable
+#### *Mean of tBodyAccJerk-std()-Y*
 The mean of the estimated standard deviation of the tBodyAccJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerk-std()-Z** Variable
+#### *Mean of tBodyAccJerk-std()-Z*
 The mean of the estimated standard deviation of the tBodyAccJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-mean()-X** Variable
+#### *Mean of tBodyGyro-mean()-X*
 The mean of the estimated mean of the tBodyGyro-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-mean()-Y** Variable
+#### *Mean of tBodyGyro-mean()-Y*
 The mean of the estimated mean of the tBodyGyro-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-mean()-Z** Variable
+#### *Mean of tBodyGyro-mean()-Z*
 The mean of the estimated mean of the tBodyGyro-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-std()-X** Variable
+#### *Mean of tBodyGyro-std()-X*
 The mean of the estimated standard deviation of the tBodyGyro-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-std()-Y** Variable
+#### *Mean of tBodyGyro-std()-Y*
 The mean of the estimated standard deviation of the tBodyGyro-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyro-std()-Z** Variable
+#### *Mean of tBodyGyro-std()-Z*
 The mean of the estimated standard deviation of the tBodyGyro-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-mean()-X** Variable
+#### *Mean of tBodyGyroJerk-mean()-X*
 The mean of the estimated mean of the tBodyGyroJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-mean()-Y** Variable
+#### *Mean of tBodyGyroJerk-mean()-Y*
 The mean of the estimated mean of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-mean()-Z** Variable
+#### *Mean of tBodyGyroJerk-mean()-Z*
 The mean of the estimated mean of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-std()-X** Variable
+#### *Mean of tBodyGyroJerk-std()-X*
 The mean of the estimated standard deviation of the tBodyGyroJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-std()-Y** Variable
+#### *Mean of tBodyGyroJerk-std()-Y*
 The mean of the estimated standard deviation of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerk-std()-Z** Variable
+#### *Mean of tBodyGyroJerk-std()-Z*
 The mean of the estimated standard deviation of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccMag-mean()** Variable
+#### *Mean of tBodyAccMag-mean()*
 The mean of the estimated mean of the tBodyAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccMag-std()** Variable
+#### *Mean of tBodyAccMag-std()*
 The mean of the estimated standard deviation of the tBodyAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAccMag-mean()** Variable
+#### *Mean of tGravityAccMag-mean()*
 The mean of the estimated mean of the tGravityAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tGravityAccMag-std()** Variable
+#### *Mean of tGravityAccMag-std()*
 The mean of the estimated standard deviation of the tGravityAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerkMag-mean()** Variable
+#### *Mean of tBodyAccJerkMag-mean()*
 The mean of the estimated mean of the tBodyAccJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyAccJerkMag-std()** Variable
+#### *Mean of tBodyAccJerkMag-std()*
 The mean of the estimated standard deviation of the tBodyAccJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroMag-mean()** Variable
+#### *Mean of tBodyGyroMag-mean()*
 The mean of the estimated mean of the tBodyGyroMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroMag-std()** Variable
+#### *Mean of tBodyGyroMag-std()*
 The mean of the estimated standard deviation of the tBodyGyroMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerkMag-mean()** Variable
+#### *Mean of tBodyGyroJerkMag-mean()*
 The mean of the estimated mean of the tBodyGyroJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of tBodyGyroJerkMag-std()** Variable
+#### *Mean of tBodyGyroJerkMag-std()*
 The mean of the estimated standard deviation of the tBodyGyroJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-mean()-X** Variable
+#### *Mean of fBodyAcc-mean()-X*
 The mean of the estimated mean of the fBodyAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-mean()-Y** Variable
+#### *Mean of fBodyAcc-mean()-Y*
 The mean of the estimated mean of the fBodyAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-mean()-Z** Variable
+#### *Mean of fBodyAcc-mean()-Z*
 The mean of the estimated mean of the fBodyAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-std()-X** Variable
+#### *Mean of fBodyAcc-std()-X*
 The mean of the estimated standard deviation of the fBodyAcc-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-std()-Y** Variable
+#### *Mean of fBodyAcc-std()-Y*
 The mean of the estimated standard deviation of the fBodyAcc-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAcc-std()-Z** Variable
+#### *Mean of fBodyAcc-std()-Z*
 The mean of the estimated standard deviation of the fBodyAcc-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-mean()-X** Variable
+#### *Mean of fBodyAccJerk-mean()-X*
 The mean of the estimated mean of the fBodyAccJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-mean()-Y** Variable
+#### *Mean of fBodyAccJerk-mean()-Y*
 The mean of the estimated mean of the fBodyAccJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-mean()-Z** Variable
+#### *Mean of fBodyAccJerk-mean()-Z*
 The mean of the estimated mean of the fBodyAccJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-std()-X** Variable
+#### *Mean of fBodyAccJerk-std()-X*
 The mean of the estimated standard deviation of the fBodyAccJerk-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-std()-Y** Variable
+#### *Mean of fBodyAccJerk-std()-Y*
 The mean of the estimated standard deviation of the fBodyAccJerk-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccJerk-std()-Z** Variable
+#### *Mean of fBodyAccJerk-std()-Z*
 The mean of the estimated standard deviation of the fBodyAccJerk-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-mean()-X** Variable
+#### *Mean of fBodyGyro-mean()-X*
 The mean of the estimated mean of the fBodyGyro-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-mean()-Y** Variable
+#### *Mean of fBodyGyro-mean()-Y*
 The mean of the estimated mean of the fBodyGyro-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-mean()-Z** Variable
+#### *Mean of fBodyGyro-mean()-Z*
 The mean of the estimated mean of the fBodyGyro-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-std()-X** Variable
+#### *Mean of fBodyGyro-std()-X*
 The mean of the estimated standard deviation of the fBodyGyro-X signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-std()-Y** Variable
+#### *Mean of fBodyGyro-std()-Y*
 The mean of the estimated standard deviation of the fBodyGyro-Y signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyGyro-std()-Z** Variable
+#### *Mean of fBodyGyro-std()-Z*
 The mean of the estimated standard deviation of the fBodyGyro-Z signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccMag-mean()** Variable
+#### *Mean of fBodyAccMag-mean()*
 The mean of the estimated mean of the fBodyAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyAccMag-std()** Variable
+#### *Mean of fBodyAccMag-std()*
 The mean of the estimated standard deviation of the fBodyAccMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyAccJerkMag-mean()** Variable
+#### *Mean of fBodyBodyAccJerkMag-mean()*
 The mean of the estimated mean of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyAccJerkMag-std()** Variable
+#### *Mean of fBodyBodyAccJerkMag-std()*
 The mean of the estimated standard deviation of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyGyroMag-mean()** Variable
+#### *Mean of fBodyBodyGyroMag-mean()*
 The mean of the estimated mean of the fBodyBodyGyroMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyGyroMag-std()** Variable
+#### *Mean of fBodyBodyGyroMag-std()*
 The mean of the estimated standard deviation of the fBodyBodyGyroMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyGyroJerkMag-mean()** Variable
+#### *Mean of fBodyBodyGyroJerkMag-mean()*
 The mean of the estimated mean of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in.
 
-#### **Mean of fBodyBodyGyroJerkMag-std()** Variable
+#### *Mean of fBodyBodyGyroJerkMag-std()*
 The mean of the estimated standard deviation of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in.
 
