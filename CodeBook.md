@@ -95,10 +95,11 @@ std(): Standard deviation
 The variables are explained in each of the following subsections. The data set is in the wide form.
 
 #### *Subject*
-The index of the subject perfoming the measured activity.
+The index of the subject perfoming the measured activity. Can take the values 1 through 30 (there were 30 volunteers in the experiment).
 
 #### *Activity*
-The activity, the subject was engaged in.
+The activity, the subject was engaged in. Can be one of WALKING,
+WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 #### *Mean of tBodyAcc-mean()-X*
 The mean of the estimated mean of the tBodyAcc-X signal for the activity, the subject was engaged in.
