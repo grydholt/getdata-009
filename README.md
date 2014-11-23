@@ -1,4 +1,4 @@
-# Explanation of the scripts
+# Explanation of the script
 
 There is one script named run_analysis.R as per the instructions. The
 steps outlined in the instructions have been added in the script as

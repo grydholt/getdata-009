@@ -99,7 +99,7 @@ The index of the subject perfoming the measured activity. Can take the values 1 
 
 #### *Activity*
 The activity, the subject was engaged in. Can be one of WALKING,
-WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 #### *Mean of tBodyAcc-mean()-X*
 The mean of the estimated mean of the tBodyAcc-X signal for the activity, the subject was engaged in.
