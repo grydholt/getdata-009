@@ -17,7 +17,7 @@ tidy.txt data set.
 
 Notice that the tidy.txt data set does not distinguish between the
 test and training data. The test and training data were combined before
-the tidying of the data.
+the tidying of the data. The tidy data is in the wide form.
 
 ## The original data
 
@@ -89,7 +89,7 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value  
 std(): Standard deviation  
 
-(There were more estimated values in the original data set but these are elided for tidy.txt)
+*(There were more estimated values in the original data set but these are elided for tidy.txt.)*
 
 ### Variables
 The variables are explained in each of the following subsections. The data set is in the wide form.
