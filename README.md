@@ -1,7 +1,7 @@
 # Explanation of the script
 
 There is one script named run_analysis.R as per the instructions. The
-steps outlined in the instructions have been added in the script as
+steps outlined in the instructions have been added to the script as
 comments so it is easier for the reader to follow the script's flow.
 
 ## Loading and Merging the Data
