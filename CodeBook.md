@@ -16,8 +16,8 @@ paper. Following the section is an explation of the variables in the
 tidy.txt data set.
 
 Notice that the tidy.txt data set does not distinguish between the
-test and training data. The test and training data were merged before
-the tidying of the data. 
+test and training data. The test and training data were combined before
+the tidying of the data.
 
 ## The original data
 
@@ -89,10 +89,10 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-(There were more estimated values but these are elided for tidy.txt)
+(There were more estimated values in the original data set but these are elided for tidy.txt)
 
 ### Variables
-The variables are explained in each of the following subsections
+The variables are explained in each of the following subsections.
 
 #### Subject
 
@@ -103,200 +103,200 @@ The index of the subject perfoming the measured activity.
 The activity the subject was engaged in.
 
 #### Mean of tBodyAcc-mean()-X
-The mean of the mean of the measurements of tBodyAcc-X.
+The mean of the estimated mean of the tBodyAcc-X signal.
 
 #### Mean of tBodyAcc-mean()-Y
-The mean of the mean of the measurements of tBodyAcc-Y.
+The mean of the estimated mean of the tBodyAcc-Y signal.
 
 #### Mean of tBodyAcc-mean()-Z
-The mean of the mean of the measurements of tBodyAcc-Z.
+The mean of the estimated mean of the tBodyAcc-Z signal.
 
 #### Mean of tBodyAcc-std()-X
-The mean of the standard deviation of the measurements of tBodyAcc-X.
+The mean of the estimated standard deviation of the tBodyAcc-X signal.
 
 #### Mean of tBodyAcc-std()-Y
-The mean of the standard deviation of the measurements of tBodyAcc-Y.
+The mean of the estimated standard deviation of the tBodyAcc-Y signal.
 
 #### Mean of tBodyAcc-std()-Z
-The mean of the standard deviation of the measurements of tBodyAcc-Z.
+The mean of the estimated standard deviation of the tBodyAcc-Z signal.
 
 #### Mean of tGravityAcc-mean()-X
-The mean of the mean of the measurements of tGravityAcc-X.
+The mean of the estimated mean of the tGravityAcc-X signal.
 
 #### Mean of tGravityAcc-mean()-Y
-The mean of the mean of the measurements of tGravityAcc-Y.
+The mean of the estimated mean of the tGravityAcc-Y signal.
 
 #### Mean of tGravityAcc-mean()-Z
-The mean of the mean of the measurements of tGravityAcc-Z.
+The mean of the estimated mean of the tGravityAcc-Z signal.
 
 #### Mean of tGravityAcc-std()-X
-The mean of the standard deviation of the measurements of tGravityAcc-X.
+The mean of the estimated standard deviation of the tGravityAcc-X signal.
 
 #### Mean of tGravityAcc-std()-Y
-The mean of the standard deviation of the measurements of tGravityAcc-Y.
+The mean of the estimated standard deviation of the tGravityAcc-Y signal.
 
 #### Mean of tGravityAcc-std()-Z
-The mean of the standard deviation of the measurements of tGravityAcc-Z.
+The mean of the estimated standard deviation of the tGravityAcc-Z signal.
 
 #### Mean of tBodyAccJerk-mean()-X
-The mean of the mean of the measurements of tBodyAccJerk-X.
+The mean of the estimated mean of the tBodyAccJerk-X signal.
 
 #### Mean of tBodyAccJerk-mean()-Y
-The mean of the mean of the measurements of tBodyAccJerk-Y.
+The mean of the estimated mean of the tBodyAccJerk-Y signal.
 
 #### Mean of tBodyAccJerk-mean()-Z
-The mean of the mean of the measurements of tBodyAccJerk-Z.
+The mean of the estimated mean of the tBodyAccJerk-Z signal.
 
 #### Mean of tBodyAccJerk-std()-X
-The mean of the standard deviation of the measurements of tBodyAccJerk-X.
+The mean of the estimated standard deviation of the tBodyAccJerk-X signal.
 
 #### Mean of tBodyAccJerk-std()-Y
-The mean of the standard deviation of the measurements of tBodyAccJerk-Y.
+The mean of the estimated standard deviation of the tBodyAccJerk-Y signal.
 
 #### Mean of tBodyAccJerk-std()-Z
-The mean of the standard deviation of the measurements of tBodyAccJerk-Z.
+The mean of the estimated standard deviation of the tBodyAccJerk-Z signal.
 
 #### Mean of tBodyGyro-mean()-X
-The mean of the mean of the measurements of tBodyGyro-X.
+The mean of the estimated mean of the tBodyGyro-X signal.
 
 #### Mean of tBodyGyro-mean()-Y
-The mean of the mean of the measurements of tBodyGyro-Y.
+The mean of the estimated mean of the tBodyGyro-Y signal.
 
 #### Mean of tBodyGyro-mean()-Z
-The mean of the mean of the measurements of tBodyGyro-Z.
+The mean of the estimated mean of the tBodyGyro-Z signal.
 
 #### Mean of tBodyGyro-std()-X
-The mean of the standard deviation of the measurements of tBodyGyro-X.
+The mean of the estimated standard deviation of the tBodyGyro-X signal.
 
 #### Mean of tBodyGyro-std()-Y
-The mean of the standard deviation of the measurements of tBodyGyro-Y.
+The mean of the estimated standard deviation of the tBodyGyro-Y signal.
 
 #### Mean of tBodyGyro-std()-Z
-The mean of the standard deviation of the measurements of tBodyGyro-Z.
+The mean of the estimated standard deviation of the tBodyGyro-Z signal.
 
 #### Mean of tBodyGyroJerk-mean()-X
-The mean of the mean of the measurements of tBodyGyroJerk-X.
+The mean of the estimated mean of the tBodyGyroJerk-X signal.
 
 #### Mean of tBodyGyroJerk-mean()-Y
-The mean of the mean of the measurements of tBodyGyroJerk-Y.
+The mean of the estimated mean of the tBodyGyroJerk-Y signal.
 
 #### Mean of tBodyGyroJerk-mean()-Z
-The mean of the mean of the measurements of tBodyGyroJerk-Z.
+The mean of the estimated mean of the tBodyGyroJerk-Z signal.
 
 #### Mean of tBodyGyroJerk-std()-X
-The mean of the standard deviation of the measurements of tBodyGyroJerk-X.
+The mean of the estimated standard deviation of the tBodyGyroJerk-X signal.
 
 #### Mean of tBodyGyroJerk-std()-Y
-The mean of the standard deviation of the measurements of tBodyGyroJerk-Y.
+The mean of the estimated standard deviation of the tBodyGyroJerk-Y signal.
 
 #### Mean of tBodyGyroJerk-std()-Z
-The mean of the standard deviation of the measurements of tBodyGyroJerk-Z.
+The mean of the estimated standard deviation of the tBodyGyroJerk-Z signal.
 
 #### Mean of tBodyAccMag-mean()
-The mean of the mean of the measurements of tBodyAccMag.
+The mean of the estimated mean of the tBodyAccMag signal.
 
 #### Mean of tBodyAccMag-std()
-The mean of the standard deviation of the measurements of tBodyAccMag.
+The mean of the estimated standard deviation of the tBodyAccMag signal.
 
 #### Mean of tGravityAccMag-mean()
-The mean of the mean of the measurements of tGravityAccMag.
+The mean of the estimated mean of the tGravityAccMag signal.
 
 #### Mean of tGravityAccMag-std()
-The mean of the standard deviation of the measurements of tGravityAccMag.
+The mean of the estimated standard deviation of the tGravityAccMag signal.
 
 #### Mean of tBodyAccJerkMag-mean()
-The mean of the mean of the measurements of tBodyAccJerkMag.
+The mean of the estimated mean of the tBodyAccJerkMag signal.
 
 #### Mean of tBodyAccJerkMag-std()
-The mean of the standard deviation of the measurements of tBodyAccJerkMag.
+The mean of the estimated standard deviation of the tBodyAccJerkMag signal.
 
 #### Mean of tBodyGyroMag-mean()
-The mean of the mean of the measurements of tBodyGyroMag.
+The mean of the estimated mean of the tBodyGyroMag signal.
 
 #### Mean of tBodyGyroMag-std()
-The mean of the standard deviation of the measurements of tBodyGyroMag.
+The mean of the estimated standard deviation of the tBodyGyroMag signal.
 
 #### Mean of tBodyGyroJerkMag-mean()
-The mean of the mean of the measurements of tBodyGyroJerkMag.
+The mean of the estimated mean of the tBodyGyroJerkMag signal.
 
 #### Mean of tBodyGyroJerkMag-std()
-The mean of the standard deviation of the measurements of tBodyGyroJerkMag.
+The mean of the estimated standard deviation of the tBodyGyroJerkMag signal.
 
 #### Mean of fBodyAcc-mean()-X
-The mean of the mean of the measurements of fBodyAcc-X.
+The mean of the estimated mean of the fBodyAcc-X signal.
 
 #### Mean of fBodyAcc-mean()-Y
-The mean of the mean of the measurements of fBodyAcc-Y.
+The mean of the estimated mean of the fBodyAcc-Y signal.
 
 #### Mean of fBodyAcc-mean()-Z
-The mean of the mean of the measurements of fBodyAcc-Z.
+The mean of the estimated mean of the fBodyAcc-Z signal.
 
 #### Mean of fBodyAcc-std()-X
-The mean of the standard deviation of the measurements of fBodyAcc-X.
+The mean of the estimated standard deviation of the fBodyAcc-X signal.
 
 #### Mean of fBodyAcc-std()-Y
-The mean of the standard deviation of the measurements of fBodyAcc-Y.
+The mean of the estimated standard deviation of the fBodyAcc-Y signal.
 
 #### Mean of fBodyAcc-std()-Z
-The mean of the standard deviation of the measurements of fBodyAcc-Z.
+The mean of the estimated standard deviation of the fBodyAcc-Z signal.
 
 #### Mean of fBodyAccJerk-mean()-X
-The mean of the mean of the measurements of fBodyAccJerk-X.
+The mean of the estimated mean of the fBodyAccJerk-X signal.
 
 #### Mean of fBodyAccJerk-mean()-Y
-The mean of the mean of the measurements of fBodyAccJerk-Y.
+The mean of the estimated mean of the fBodyAccJerk-Y signal.
 
 #### Mean of fBodyAccJerk-mean()-Z
-The mean of the mean of the measurements of fBodyAccJerk-Z.
+The mean of the estimated mean of the fBodyAccJerk-Z signal.
 
 #### Mean of fBodyAccJerk-std()-X
-The mean of the standard deviation of the measurements of fBodyAccJerk-X.
+The mean of the estimated standard deviation of the fBodyAccJerk-X signal.
 
 #### Mean of fBodyAccJerk-std()-Y
-The mean of the standard deviation of the measurements of fBodyAccJerk-Y.
+The mean of the estimated standard deviation of the fBodyAccJerk-Y signal.
 
 #### Mean of fBodyAccJerk-std()-Z
-The mean of the standard deviation of the measurements of fBodyAccJerk-Z.
+The mean of the estimated standard deviation of the fBodyAccJerk-Z signal.
 
 #### Mean of fBodyGyro-mean()-X
-The mean of the mean of the measurements of fBodyGyro-X.
+The mean of the estimated mean of the fBodyGyro-X signal.
 
 #### Mean of fBodyGyro-mean()-Y
-The mean of the mean of the measurements of fBodyGyro-Y.
+The mean of the estimated mean of the fBodyGyro-Y signal.
 
 #### Mean of fBodyGyro-mean()-Z
-The mean of the mean of the measurements of fBodyGyro-Z.
+The mean of the estimated mean of the fBodyGyro-Z signal.
 
 #### Mean of fBodyGyro-std()-X
-The mean of the standard deviation of the measurements of fBodyGyro-X.
+The mean of the estimated standard deviation of the fBodyGyro-X signal.
 
 #### Mean of fBodyGyro-std()-Y
-The mean of the standard deviation of the measurements of fBodyGyro-Y.
+The mean of the estimated standard deviation of the fBodyGyro-Y signal.
 
 #### Mean of fBodyGyro-std()-Z
-The mean of the standard deviation of the measurements of fBodyGyro-Z.
+The mean of the estimated standard deviation of the fBodyGyro-Z signal.
 
 #### Mean of fBodyAccMag-mean()
-The mean of the mean of the measurements of fBodyAccMag.
+The mean of the estimated mean of the fBodyAccMag signal.
 
 #### Mean of fBodyAccMag-std()
-The mean of the standard deviation of the measurements of fBodyAccMag.
+The mean of the estimated standard deviation of the fBodyAccMag signal.
 
 #### Mean of fBodyBodyAccJerkMag-mean()
-The mean of the mean of the measurements of fBodyBodyAccJerkMag.
+The mean of the estimated mean of the fBodyBodyAccJerkMag signal.
 
 #### Mean of fBodyBodyAccJerkMag-std()
-The mean of the standard deviation of the measurements of fBodyBodyAccJerkMag.
+The mean of the estimated standard deviation of the fBodyBodyAccJerkMag signal.
 
 #### Mean of fBodyBodyGyroMag-mean()
-The mean of the mean of the measurements of fBodyBodyGyroMag.
+The mean of the estimated mean of the fBodyBodyGyroMag signal.
 
 #### Mean of fBodyBodyGyroMag-std()
-The mean of the standard deviation of the measurements of fBodyBodyGyroMag.
+The mean of the estimated standard deviation of the fBodyBodyGyroMag signal.
 
 #### Mean of fBodyBodyGyroJerkMag-mean()
-The mean of the mean of the measurements of fBodyBodyGyroJerkMag.
+The mean of the estimated mean of the fBodyBodyGyroJerkMag signal.
 
 #### Mean of fBodyBodyGyroJerkMag-std()
-The mean of the standard deviation of the measurements of fBodyBodyGyroJerkMag.
+The mean of the estimated standard deviation of the fBodyBodyGyroJerkMag signal.
 
