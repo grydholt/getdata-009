@@ -4,27 +4,21 @@ library("dplyr")
 
 # load training set, the first column is the subject index, the second is the subject index,
 # and the remaining columns are the measurements
-if (!exists("train_set")) {
-        X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
-        subject_train <- read.table("UCI HAR Dataset/train/subject_train.txt")
-        y_train <- read.table("UCI HAR Dataset/train/y_train.txt")
-        train_set <- cbind(subject_train, y_train, X_train)
+X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
+subject_train <- read.table("UCI HAR Dataset/train/subject_train.txt")
+y_train <- read.table("UCI HAR Dataset/train/y_train.txt")
+train_set <- cbind(subject_train, y_train, X_train)
        
-}
 
 # load test set, the first column is the subject index, the second is the activity index,
 # and the remaining columns are the measurements
-if (!exists("test_set")) {
-        X_test <- read.table("UCI HAR Dataset/test/X_test.txt")
-        subject_test <- read.table("UCI HAR Dataset/test/subject_test.txt")
-        y_test <- read.table("UCI HAR Dataset/test/y_test.txt")
-        test_set <- cbind(subject_test, y_test, X_test)
-}
+X_test <- read.table("UCI HAR Dataset/test/X_test.txt")
+subject_test <- read.table("UCI HAR Dataset/test/subject_test.txt")
+y_test <- read.table("UCI HAR Dataset/test/y_test.txt")
+test_set <- cbind(subject_test, y_test, X_test)
 
 # merge
-if (!exists("combined_set")) {
-        combined_set <- rbind(train_set, test_set)
-}
+combined_set <- rbind(train_set, test_set)
 
 ## 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 
