@@ -50,4 +50,5 @@ tidy <- combined_mean_std_set %>%
 # append mean to each of the measurement columns
 colnames(tidy)<-c("Subject", "Activity", paste("Mean of", feature_names$V2[mean_std_column_idx]))
 
+# export the data
 write.table(tidy, "tidy.txt",row.name = F)

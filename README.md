@@ -49,5 +49,8 @@ set was due to repetition of the activity and subject. As is probably
 clear to the reader, but worth mentioning for completeness: The tidy
 data is in the wide form.
 
-Finally, the column names were updated in the tidy data set, so it is
+Subsequently, the column names were updated in the tidy data set, so it is
 clear that the 'mean' function was used on the original values.
+
+Finally, the tidy data set was exported through the use of the
+write.table function.
