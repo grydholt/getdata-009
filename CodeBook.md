@@ -12,7 +12,7 @@ Spain. Dec 2012
 
 The next section is an explanation of the original measurements and is
 mostly taken verbatim from the files published together with the
-paper. Following that section is an explation of the variables in the
+paper. Following that section is an explanation of the variables in the
 tidy.txt data set.
 
 Notice that the tidy.txt data set does not distinguish between the
