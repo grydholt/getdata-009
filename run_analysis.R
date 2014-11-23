@@ -2,7 +2,7 @@ library("dplyr")
 
 ## 1. Merges the training and the test sets to create one data set.
 
-# load training set, the first column is the subject index, the second is the subject index,
+# load training set, the first column is the subject index, the second is the activity index,
 # and the remaining columns are the measurements
 X_train <- read.table("UCI HAR Dataset/train/X_train.txt")
 subject_train <- read.table("UCI HAR Dataset/train/subject_train.txt")
