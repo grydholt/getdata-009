@@ -102,200 +102,200 @@ The activity, the subject was engaged in. Can be one of WALKING,
 WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 #### *Mean of tBodyAcc-mean()-X*
-The mean of the estimated mean of the tBodyAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAcc-mean()-Y*
-The mean of the estimated mean of the tBodyAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAcc-mean()-Z*
-The mean of the estimated mean of the tBodyAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAcc-std()-X*
-The mean of the estimated standard deviation of the tBodyAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAcc-std()-Y*
-The mean of the estimated standard deviation of the tBodyAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAcc-std()-Z*
-The mean of the estimated standard deviation of the tBodyAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-mean()-X*
-The mean of the estimated mean of the tGravityAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tGravityAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-mean()-Y*
-The mean of the estimated mean of the tGravityAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tGravityAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-mean()-Z*
-The mean of the estimated mean of the tGravityAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tGravityAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-std()-X*
-The mean of the estimated standard deviation of the tGravityAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tGravityAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-std()-Y*
-The mean of the estimated standard deviation of the tGravityAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tGravityAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAcc-std()-Z*
-The mean of the estimated standard deviation of the tGravityAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tGravityAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-mean()-X*
-The mean of the estimated mean of the tBodyAccJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAccJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-mean()-Y*
-The mean of the estimated mean of the tBodyAccJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAccJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-mean()-Z*
-The mean of the estimated mean of the tBodyAccJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAccJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-std()-X*
-The mean of the estimated standard deviation of the tBodyAccJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAccJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-std()-Y*
-The mean of the estimated standard deviation of the tBodyAccJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAccJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerk-std()-Z*
-The mean of the estimated standard deviation of the tBodyAccJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAccJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-mean()-X*
-The mean of the estimated mean of the tBodyGyro-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyro-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-mean()-Y*
-The mean of the estimated mean of the tBodyGyro-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyro-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-mean()-Z*
-The mean of the estimated mean of the tBodyGyro-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyro-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-std()-X*
-The mean of the estimated standard deviation of the tBodyGyro-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyro-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-std()-Y*
-The mean of the estimated standard deviation of the tBodyGyro-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyro-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyro-std()-Z*
-The mean of the estimated standard deviation of the tBodyGyro-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyro-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-mean()-X*
-The mean of the estimated mean of the tBodyGyroJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyroJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-mean()-Y*
-The mean of the estimated mean of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-mean()-Z*
-The mean of the estimated mean of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-std()-X*
-The mean of the estimated standard deviation of the tBodyGyroJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyroJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-std()-Y*
-The mean of the estimated standard deviation of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyroJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerk-std()-Z*
-The mean of the estimated standard deviation of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyroJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccMag-mean()*
-The mean of the estimated mean of the tBodyAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccMag-std()*
-The mean of the estimated standard deviation of the tBodyAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAccMag-mean()*
-The mean of the estimated mean of the tGravityAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tGravityAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tGravityAccMag-std()*
-The mean of the estimated standard deviation of the tGravityAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tGravityAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerkMag-mean()*
-The mean of the estimated mean of the tBodyAccJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyAccJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyAccJerkMag-std()*
-The mean of the estimated standard deviation of the tBodyAccJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyAccJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroMag-mean()*
-The mean of the estimated mean of the tBodyGyroMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyroMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroMag-std()*
-The mean of the estimated standard deviation of the tBodyGyroMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyroMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerkMag-mean()*
-The mean of the estimated mean of the tBodyGyroJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the tBodyGyroJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of tBodyGyroJerkMag-std()*
-The mean of the estimated standard deviation of the tBodyGyroJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the tBodyGyroJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-mean()-X*
-The mean of the estimated mean of the fBodyAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-mean()-Y*
-The mean of the estimated mean of the fBodyAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-mean()-Z*
-The mean of the estimated mean of the fBodyAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-std()-X*
-The mean of the estimated standard deviation of the fBodyAcc-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAcc-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-std()-Y*
-The mean of the estimated standard deviation of the fBodyAcc-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAcc-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAcc-std()-Z*
-The mean of the estimated standard deviation of the fBodyAcc-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAcc-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-mean()-X*
-The mean of the estimated mean of the fBodyAccJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAccJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-mean()-Y*
-The mean of the estimated mean of the fBodyAccJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAccJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-mean()-Z*
-The mean of the estimated mean of the fBodyAccJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAccJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-std()-X*
-The mean of the estimated standard deviation of the fBodyAccJerk-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAccJerk-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-std()-Y*
-The mean of the estimated standard deviation of the fBodyAccJerk-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAccJerk-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccJerk-std()-Z*
-The mean of the estimated standard deviation of the fBodyAccJerk-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAccJerk-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-mean()-X*
-The mean of the estimated mean of the fBodyGyro-X signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyGyro-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-mean()-Y*
-The mean of the estimated mean of the fBodyGyro-Y signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyGyro-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-mean()-Z*
-The mean of the estimated mean of the fBodyGyro-Z signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyGyro-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-std()-X*
-The mean of the estimated standard deviation of the fBodyGyro-X signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyGyro-X signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-std()-Y*
-The mean of the estimated standard deviation of the fBodyGyro-Y signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyGyro-Y signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyGyro-std()-Z*
-The mean of the estimated standard deviation of the fBodyGyro-Z signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyGyro-Z signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccMag-mean()*
-The mean of the estimated mean of the fBodyAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyAccMag-std()*
-The mean of the estimated standard deviation of the fBodyAccMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyAccMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyAccJerkMag-mean()*
-The mean of the estimated mean of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyAccJerkMag-std()*
-The mean of the estimated standard deviation of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyBodyAccJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyGyroMag-mean()*
-The mean of the estimated mean of the fBodyBodyGyroMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyBodyGyroMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyGyroMag-std()*
-The mean of the estimated standard deviation of the fBodyBodyGyroMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyBodyGyroMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyGyroJerkMag-mean()*
-The mean of the estimated mean of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated mean of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
 #### *Mean of fBodyBodyGyroJerkMag-std()*
-The mean of the estimated standard deviation of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in.
+The mean of the estimated standard deviation of the fBodyBodyGyroJerkMag signal for the activity, the subject was engaged in. The unit is the same as for the original data.
 
